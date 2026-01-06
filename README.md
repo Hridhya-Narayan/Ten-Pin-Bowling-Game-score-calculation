@@ -41,11 +41,11 @@ This project calculates the total score of a single ten-pin bowling game based o
 ## Running the Program
 1.Open a terminal in the project folder.   
 2.Run the main program:    
-      python bowling.py      
+    ` python bowling.py `      
 3.The program will prompt you for input and display the total bowling score.  
 
 ## Running Unit Tests
 1.Unit tests are written in test_cases.py using Python’s unittest module.      
 2.To run the tests:          
-     python -m unittest test_cases.py     
+    ` python -m unittest test_cases.py `  
 3.Each . represents a passed test. Failed tests will show details.        
