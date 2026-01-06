@@ -21,7 +21,7 @@ This project calculates the total score of a single ten-pin bowling game based o
 ## Files in the Repository
 - `Ten_Pin_Bowling_score.py` – Main Python program with validation and scoring logic
 - `test_cases.py` – Unit test cases using Python `unittest`
-- `Presentation.pptx` – Short presentation on ERP concepts
+- `Presentation.pptx` – Short presentation 
 - `README.md` – Project documentation
   
 ## Tech Stack
